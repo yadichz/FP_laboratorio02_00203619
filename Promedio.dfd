@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+20
+'Calcular promedios'
+4
+1
+21
+'Ingrese los valores'
+5
+1
+8
+n1,n2,n3
+6
+1
+4
+Prom
+12
+(n1+n2+n3)/3
+7
+0
+1
+7
+Prom>=6
+4
+1
+24
+'El promedio es menor: '
+13
+4
+1
+30
+'El promedio es mayor: ', Prom
+13
+1
